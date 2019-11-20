@@ -1,0 +1,34 @@
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Api.deps.json
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Api.runtimeconfig.json
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Api.runtimeconfig.dev.json
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Api.dll
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Api.pdb
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+D:\VanyaWeather-master\Weather\bin\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csprojAssemblyReference.cache
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csproj.CoreCompileInputs.cache
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorAssemblyInfo.cache
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorAssemblyInfo.cs
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.AssemblyInfoInputs.cache
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.AssemblyInfo.cs
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorTargetAssemblyInfo.cache
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csproj.CopyComplete
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.dll
+D:\VanyaWeather-master\Weather\obj\Debug\netcoreapp2.1\Weather.Api.pdb
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Api.deps.json
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Api.runtimeconfig.json
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Api.runtimeconfig.dev.json
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Api.dll
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Api.pdb
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\bin\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csprojAssemblyReference.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorAssemblyInfo.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorAssemblyInfo.cs
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.AssemblyInfoInputs.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.AssemblyInfo.cs
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.csproj.CopyComplete
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.dll
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather\obj\Debug\netcoreapp2.1\Weather.Api.pdb

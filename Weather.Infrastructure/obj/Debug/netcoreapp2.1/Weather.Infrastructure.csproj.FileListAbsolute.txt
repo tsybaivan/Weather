@@ -1,0 +1,18 @@
+D:\VanyaWeather-master\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.deps.json
+D:\VanyaWeather-master\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+D:\VanyaWeather-master\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.csprojAssemblyReference.cache
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.csproj.CoreCompileInputs.cache
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.AssemblyInfoInputs.cache
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.AssemblyInfo.cs
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+D:\VanyaWeather-master\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.deps.json
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\bin\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.AssemblyInfo.cs
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.dll
+C:\Users\Ivan Tsyba\Desktop\Weather\Weather.Infrastructure\obj\Debug\netcoreapp2.1\Weather.Infrastructure.pdb
